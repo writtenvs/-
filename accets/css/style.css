@@ -888,6 +888,9 @@ area-text-wrapper{
     }
 }
 @media (max-width:842px){
+    .header-logo {
+        margin-left: 10px;
+    }
     .area-text a{
         font-size: 30px;
 
@@ -898,6 +901,7 @@ area-text-wrapper{
     }
 }
 @media (max-width:730px){
+    
     .tyr-banner p {
         
         
@@ -1102,6 +1106,9 @@ area-text-wrapper{
     }
 }
 @media (max-width:458px){
+    .header-logo {
+        margin-left: 10px;
+    }
     .line1{
         width: 270px;
     }
@@ -1144,6 +1151,65 @@ area-text-wrapper{
     }
     
 }
+@media (max-width:423px){
+.footer{
+    margin-top: 0;
+    
+}
 
 
+.area-text a{
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
 
+}
+.area-wrapper .area-text-wrapper{
+    top: 28%;
+    gap:20px ;
+    left: -0%;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+}
+}
+@media (max-width:400px){
+
+    .area-text a{
+        font-size: 27px;
+        text-align: center;
+        justify-content: center;
+    
+    }
+    .tyr-banner p{
+        font-size: 39px;
+    }
+    .area-wrapper .area-text-wrapper{
+        top: 33%;
+        gap:20px ;
+        left: -0%;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        align-items: center;
+    }
+   
+}
+ @media (max-width:367px){
+    .area-text a{
+        font-size: 24px;
+        text-align: center;
+        justify-content: center;
+    
+    }
+    .area-wrapper .area-text-wrapper{
+        top: 35%;
+        gap:20px ;
+        left: -0%;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        align-items: center;
+    }
+    }
