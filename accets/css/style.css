@@ -1108,6 +1108,41 @@ area-text-wrapper{
     .gor p{
         font-size: 30px;
     }
+    .footer p{
+        font-size: 15px;
+    }
+    .alboms{
+      display: flex;
+        justify-content: center;
+        align-items: center;  
+    }
+    .alboms img{
+        
+        width: 270px;
+        height: 270px;
+    }
+    .alboms-text{
+        font-size: 20px;
+    }
+    .listen button{
+        font-size: 20px;
+    }
+    .gor p{
+        font-size: 25px;
+
+    }
+    .line1{
+        margin-top: 3px;
+        width: 200px;
+        height: 4px;
+    }
+    .info-foto img{
+        width: 340px;
+    }
+    .info-foto2 img{
+        width: 340px;
+    }
+    
 }
 
 
